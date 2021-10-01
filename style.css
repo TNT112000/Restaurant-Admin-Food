@@ -52,6 +52,7 @@ p{
 }
 .footer-text{
     color:var(--white--color);
+    text-align: center;
 }
 .footer-text-color{
     color:var(--CSE--color);
@@ -196,5 +197,14 @@ a{
 }
 .table-img-item{
     width: 70px;
+}
+.navbar-toggler{
+    margin-left: auto;
+}
+.edit-navbar{
+    padding-bottom: unset;
+}
+.table-active{
+    box-shadow: unset !important;
 }
 
